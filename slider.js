@@ -6,7 +6,7 @@ var images = [
   "manila.JPG",
   "turku.JPG",
   "junibacken.JPG",
-  "Sankt-Petersburg.jpg",
+  "Saint-Petersburg.jpg",
   "dahab.jpg",
   "turda.jpg",
   "paris.JPG",
